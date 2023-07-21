@@ -1,2 +1,2 @@
 # new file
-('trying this')
+print('trying this')
